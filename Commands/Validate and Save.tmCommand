@@ -20,8 +20,6 @@ TextMate.go_to :line =&gt; $1 if result =~ /:(\d+):/
 </string>
 	<key>input</key>
 	<string>document</string>
-	<key>keyEquivalent</key>
-	<string>@s</string>
 	<key>name</key>
 	<string>Validate and Save</string>
 	<key>output</key>
